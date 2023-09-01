@@ -6,7 +6,7 @@ Ask a home buyer to describe their dream house, and they probably won't begin wi
 
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
 
-This Kaggle competition is a perfect practice for data science students who have completed an online course in machine learning and are looking to expand their skill set before trying a featured competition. 
+[This Kaggle competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) is a perfect practice for data science students who have completed an online course in machine learning and are looking to expand their skill set before trying a featured competition. 
 
 ## Data Files Description
 
